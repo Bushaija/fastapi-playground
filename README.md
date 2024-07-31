@@ -57,17 +57,3 @@ This repository contains the code, notes, and exercises from my seven-day learni
 **Topics:** Deployment strategies, Uvicorn, Docker, best practices  
 **Exercises:** Deploy the API to a cloud service  
 **Documentation:** Deployment
-
-## Project Structure
-├── app
-│   ├── __init__.py
-│   ├── main.py
-│   ├── dependencies.py
-│   └── routers
-│       ├── __init__.py
-│       ├── items.py
-│       └── users.py
-│   └── internal
-│       ├── __init__.py
-│       └── admin.py
-└── README.md
